@@ -1,0 +1,27 @@
+_repo: Malayan-Literature-Comprising-Romantic-Tales-Epic-Poetry-and-Royal-Chronicles_7095
+contributor:
+  translator:
+    agent_name: Starkweather, Chauncey C. (Chauncey Clark)
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '40481'
+    url: http://www.gutenberg.org/2009/agents/40481
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malay literature -- Translations into English'
+- !lcc 'PJ'
+- !lcc 'PL'
+tableOfContents: The epic of Bidasari, metrical translation by C. C. Starkweather
+  -- Sedjaret Malayou, legends of the Malay archipelago, tr. by M. Devic and C. C.
+  Starkweather -- The Princess Djouher-Manikam, tr. by A. Marre and C. C. Starkweather
+  -- Makota Radja-Radja; of the crown of kings, tr. by A. Marre and C. C. Starkweather.
+title: 'Malayan Literature: Comprising Romantic Tales, Epic Poetry and Royal Chronicles'
+url: http://www.gutenberg.org/ebooks/7095
