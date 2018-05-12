@@ -1,4 +1,5 @@
 _repo: Malayan-Literature-Comprising-Romantic-Tales-Epic-Poetry-and-Royal-Chronicles_7095
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Starkweather, Chauncey C. (Chauncey Clark)
@@ -6,7 +7,12 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '40481'
     url: http://www.gutenberg.org/2009/agents/40481
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7095#Malayan-Literature-Comprising-Romantic-Tales-Epic-Poetry-and-Royal-Chronicles
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
